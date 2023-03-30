@@ -2,10 +2,11 @@
 # Hi, I'm SeongWon Seo!
 [![Github Badge](https://img.shields.io/badge/-zsa332-grey?style=flat&logo=github&logoColor=white&link=https://github.com/zsa332/)](https://www.github.com/zsa332/) 
 [![Gmail Badge](https://img.shields.io/badge/-zsa332@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zsa332@gmail.com)](mailto:zsa332@gmail.com) 
+<br/><a href="https://www.notion.so/c5753fc596474780a8909af9417b6af1" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 <br/><br/>
 
 ### 💁‍♂️ About Me 
-<a href="https://www.notion.so/c5753fc596474780a8909af9417b6af1" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+
 - 🌱 I’m currently learning backend-end skills
 - ❤️ I love to code and read
 <br/><br/>
