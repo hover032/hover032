@@ -2,7 +2,7 @@
 # Hi, I'm SeongWon Seo!
 [![Github Badge](https://img.shields.io/badge/-zsa332-grey?style=flat&logo=github&logoColor=white&link=https://github.com/zsa332/)](https://www.github.com/zsa332/) 
 [![Gmail Badge](https://img.shields.io/badge/-zsa332@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zsa332@gmail.com)](mailto:zsa332@gmail.com) 
-[![Tistory Badge](https://img.shields.io/badge/-Blog-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/c5753fc596474780a8909af9417b6af1](https://canary-budget-03b.notion.site/SeongWon-s-Main-c5753fc596474780a8909af9417b6af1)]([https://www.notion.so/c5753fc596474780a8909af9417b6af1](https://canary-budget-03b.notion.site/SeongWon-s-Main-c5753fc596474780a8909af9417b6af1))
+[![Notion Badge](https://img.shields.io/badge/-Blog-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/SeongWon-s-Main-c5753fc596474780a8909af9417b6af1)](https://www.notion.so/SeongWon-s-Main-c5753fc596474780a8909af9417b6af1) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzsa332&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/><br/>
 
