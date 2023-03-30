@@ -3,6 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-zsa332-grey?style=flat&logo=github&logoColor=white&link=https://github.com/zsa332/)](https://www.github.com/zsa332/) 
 [![Gmail Badge](https://img.shields.io/badge/-zsa332@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zsa332@gmail.com)](mailto:zsa332@gmail.com) 
 [![Tistory Badge](https://img.shields.io/badge/-Blog-000000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/c5753fc596474780a8909af9417b6af1)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzsa332&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/><br/>
 
 ### 💁‍♂️ About Me 
@@ -11,7 +12,7 @@
 - ❤️ I love to code and read
 <br/><br/>
 
-### 🎖️ Ranking
+### 🎖️ Baekjoon Solved Rank
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zsa332)](https://www.acmicpc.net/user/zsa332)
 <br/><br/>
 
@@ -25,7 +26,8 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> 
 <br/><br/>
 
-
+### 📊 Most Used Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zsa332&layout=dark&theme=dark)
 
+### 📋 Git Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hover032&show_icons=true&theme=radical)
