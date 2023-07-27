@@ -9,7 +9,6 @@
 ### 💁‍♂️ About Me 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zsa332)](https://www.acmicpc.net/user/zsa332)
 - 🌱 I’m currently learning backend-end skills
-- ❤️ I love to code and read
 <br/><br/>
 
 ### 🖋 Tech Stack 
